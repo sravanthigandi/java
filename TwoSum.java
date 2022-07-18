@@ -28,7 +28,7 @@ public class TwoSum {
     
     public static void main(String args[]) {
     
-        int target = 3;
+        int target = 9;
         int nums[] = {2, 7, 11, 15};
         nums = solution.twosum(nums, target);
 
